@@ -14,7 +14,6 @@ lib/WebService/Rakuten/API/Provider/Recipe.pm
 lib/WebService/Rakuten/API/Provider/Travel.pm
 minil.toml
 specify valid applicationId,
-t/#00_compile.t#
 t/00_compile.t
 {"error":"invalid_token","error_description":"specify valid access token"},
 META.yml
