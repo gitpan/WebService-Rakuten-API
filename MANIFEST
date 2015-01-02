@@ -8,6 +8,7 @@ cpanfile
 eg/rakute.pl
 lib/WebService/Rakuten/API.pm
 lib/WebService/Rakuten/API/Provider.pm
+lib/WebService/Rakuten/API/Provider/#Books.pm#
 lib/WebService/Rakuten/API/Provider/Books.pm
 lib/WebService/Rakuten/API/Provider/Ichiba.pm
 lib/WebService/Rakuten/API/Provider/Recipe.pm
